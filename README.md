@@ -31,7 +31,7 @@ Some languages I know the basics
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" width="200" height="50">
   </a>  
   <a href="https://twitter.com/TigreBrancoyt" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" width="200" height="50">
   </a>
 </div>
    
