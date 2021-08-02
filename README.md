@@ -1,7 +1,7 @@
 ## Hey! 
 
 - I’m currently working in some games with my team 
-- I’m currently learning gdscript
+- I’m learning gdscript
 - I'm a very simple man :)
 
 ##
