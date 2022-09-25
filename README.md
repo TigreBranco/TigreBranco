@@ -13,7 +13,8 @@
 </div>
  
 ##
-  
+
+<!--
 Some languages I know the basics
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +24,9 @@ Some languages I know the basics
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
 </div>
+
+-->
+
 
 ##
   
