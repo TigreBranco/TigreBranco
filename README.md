@@ -1,14 +1,14 @@
 ## Hey! 
 
-- I’m currently working in some games with my team 
-- I’m learning gdscript
-- I'm a very simple man :)
+- I’m currently working in some games with my team using Godot Engine
+- Currently studying Programming in a high school
+
 
 ##
 
 <div>
   <a href="https://sharpman-games.itch.io">
-  <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/itchio-logo-black-800x200.png" width="400" height="100">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/itchio-logo-black-800x200.png" width="200" height="50">
   </a>
 </div>
  
