@@ -1,7 +1,7 @@
 ## Hey! 
 
 - I’m currently working in some games with my team using Godot Engine
-- Currently studying Programming in a high school
+- Currently studying Programming in high school
 
 ##
 
