@@ -12,8 +12,6 @@
   </a>
 </div>
  
-##
-
 <!--
 Some languages I know the basics
 <div style="display: inline_block"><br>
@@ -26,7 +24,6 @@ Some languages I know the basics
 </div>
 
 -->
-
 
 ##
   
