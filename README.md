@@ -3,7 +3,6 @@
 - I’m currently working in some games with my team using Godot Engine
 - Currently studying Programming in a high school
 
-
 ##
 
 <div>
@@ -11,7 +10,6 @@
   <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/itchio-logo-black-800x200.png" width="200" height="50">
   </a>
 </div>
- 
 <!--
 Some languages I know the basics
 <div style="display: inline_block"><br>
@@ -26,7 +24,7 @@ Some languages I know the basics
 -->
 
 ##
-  
+
 <div>
   <a href="https://discord.gg/AjzhkYksPW" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" width="200" height="50">
